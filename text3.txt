@@ -1,2 +1,0 @@
-Hi, this is text3.txt file
-now ima going to modify this text3.txt
